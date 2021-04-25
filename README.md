@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauli-hash
-- 👀 I’m interested in computantional linguistis
+- 👀 I’m interested in computantional linguistics
 - 🌱 I’m currently learning DBMS & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
